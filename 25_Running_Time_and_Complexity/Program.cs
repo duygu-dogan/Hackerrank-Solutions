@@ -15,6 +15,7 @@ class Solution {
                 Console.WriteLine("Not prime");
             }
         }
+       
 
     }
     static int[] GetNumber()
